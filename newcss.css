@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+}
+h{
+    color: white;
+}
+header{
+    display: inline-block;
+    width: 100%;
+}
+ul{
+    float: right;
+}
+
+li{
+    display: inline-block;
+    color: white;
+}
