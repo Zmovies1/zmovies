@@ -16,6 +16,7 @@
 }
 p{
     font-size: 16px;
+    padding: 10px;
 }
 .relate{
     width: 13%;
@@ -168,6 +169,8 @@ text-decoration: underline;
 .zmovies h{
 float:left;
 background-color:#f6f6f6;
+padding-top: 5px;
+padding-left: 7px;
 font-size: 20px;
 }
 .zmovies i{
