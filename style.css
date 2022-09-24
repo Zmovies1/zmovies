@@ -101,9 +101,11 @@ article h{
     #zmovies{
         
         float: left;
-        font-size: 20px;
-        margin-top: 10px;
+        font-size: 25px;
+        margin-top: 2px;
+        font-family: cursive;
         color: #009999;
+        margin-left: 3px;
     }
     .zmovie{
         width:40%;
